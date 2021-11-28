@@ -28,4 +28,4 @@ Please visit the [winknock Github page][2].
 
 [1]: https://eternallybored.org/misc/wget/
 [2]: https://github.com/scrow/winknock
-[3]: https://gist.github.com/scrow/2e7d39292f86322c7aa495f6598c6ae7
+[3]: https://gist.github.com/scrow/2e7d39292f86322c7aa495f6598c6ae7/raw/

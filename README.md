@@ -5,6 +5,8 @@ A simple port knocking utility for Windows using GNU Wget
 
 Since there are exactly zero good port knocking clients for Windows, I cobbled this together using a batch file and [GNU Wget][1].  All I needed was something to send three sequential knocks to specific TCP ports.  This may or may not work for your purposes.  If you need more or fewer ports, it's easy enough to modify.  If you need UDP, I can't help you, sorry.
 
+A memory-dial script is now provided as `knockm.bat`
+
 Looking for a port knocking implementation for RouterOS devices?  See [this][3] and [this][4]
 
 ## Prerequisites

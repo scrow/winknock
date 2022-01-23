@@ -4,6 +4,8 @@ REM   Part of winknock - github.com/scrow/winknock
 REM **
 
 if [%4]==[] goto usage
+if [%1]==[/?] goto usage
+if [%1]==[/help] goto usage
 
 echo.
 echo|set /p="Knocking %1 ports %2... "
